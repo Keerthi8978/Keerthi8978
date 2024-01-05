@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keeethi8978" alt="keeethi8978" /></a> </p>
 
-- 🔭 I’m currently working on **Clubs management**
+- 🔭 I’m currently working on **Water quality prediction**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **C,C++,html**
 
